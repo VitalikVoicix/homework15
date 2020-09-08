@@ -1,0 +1,110 @@
+.wpapper{
+    border:40px solid white;
+    height: 250px;
+    width: 400px;
+}
+.icon{
+    border-radius:50%;
+    height: 100px;
+    margin-top:10px 10px 10px 10px;
+    
+    border:2px solid blue;
+    float:left;
+
+}
+.main-icon{
+   width: 650px;
+   height: 260px;
+   border-radius: 20px;
+   position: absolute;;
+   margin:-10px 160px;
+   border:2px solid blue;
+}
+.arrow{
+  height: 20px;
+  width: 20px;
+  position: absolute;;
+  right: 40px;
+  top: 20px;
+}
+.repost{
+    width: 45px;
+    right:500px;
+    bottom: 15px;
+    position: absolute;;
+   
+}
+.share{
+    width: 45px; 
+    position: absolute; ;
+    right:160px;
+    bottom: 20px;
+}
+.like{
+
+    width: 35px; 
+    position: absolute; ;
+    right:340px;
+    bottom: 20px;
+     
+}
+.like-count{
+    width: 35px; 
+    position: absolute; ;
+    right:335px;
+    bottom: 30px;
+color:#808080;
+}
+.comment{
+    width: 45px; 
+    position: absolute; ;
+    right:660px;
+    bottom: 15px; 
+}
+.comment-count{
+    width: 45px; 
+    position: absolute; 
+    right:650px;
+    bottom: 30px; 
+    color:#808080;
+}
+.name{
+    color:#808080;  
+    font-size:25px;
+}
+.redo{
+    width: 20px;
+    height:20px ;
+    position: absolute; 
+    left: 315px;
+    top: 35px;
+}
+.nickName{
+    color:#808080;  
+    font-size:25px;
+    position: absolute;
+    left: 340px;
+    top: 0px;
+
+}
+.date{
+
+    color:#808080;  
+    font-size:25px;
+    position: absolute;
+    left: 510px;
+    top: 0px;  
+}
+.redo1{
+    width: 25px;
+    height:20px ;
+    position: absolute; 
+    left: 480px;
+    top: 35px;  
+
+}
+.question{
+    color:#808080;  
+    font-size:25px;
+
+}
